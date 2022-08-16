@@ -1,6 +1,6 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
 
-### Hi there, I'm Bayron Andres Murieles Gonzalez 👋
+### Hi there, I'm Bayron Murieles 👋
 ---
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
